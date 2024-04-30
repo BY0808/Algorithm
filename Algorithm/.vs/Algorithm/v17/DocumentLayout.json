@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C#\\Algorithm\\Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8026BE4E-88D1-4EE7-ACE0-310D933CFF76}|Algorithm1\\Algorithm1.csproj|g:\\c#\\algorithm\\algorithm\\algorithm1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8026BE4E-88D1-4EE7-ACE0-310D933CFF76}|Algorithm1\\Algorithm1.csproj|solutionrelative:algorithm1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\C#\\Algorithm\\Algorithm\\Algorithm1\\Program.cs",
+              "RelativeDocumentMoniker": "Algorithm1\\Program.cs",
+              "ToolTip": "G:\\C#\\Algorithm\\Algorithm\\Algorithm1\\Program.cs",
+              "RelativeToolTip": "Algorithm1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:22:05.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
